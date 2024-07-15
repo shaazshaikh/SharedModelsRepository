@@ -6,7 +6,7 @@
 	  <Authors>Your Name</Authors>
 	  <Title>Shared Models</Title>
 	  <Description>Shared models for different microservices.</Description>
-	  <PackageProjectUrl>https://github.com/shaazshaikh</PackageProjectUrl> <!-- URL to your project’s homepage or repository -->
+	  <PackageProjectUrl>https://github.com/shaazshaikh/SharedModelsRepository</PackageProjectUrl> <!-- URL to your project’s homepage or repository -->
 	  <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
